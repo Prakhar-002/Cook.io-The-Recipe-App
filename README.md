@@ -50,9 +50,9 @@ Welcome to **Cook.io**, your go-to recipe app for discovering and exploring a wi
 
 2. To use you will need an `API key`. 
 
-   - Sign up for an API key and ID at Edamam API
+   - Sign up for an `API key` and ID at `Edamam API`
 
-   - Go to api.js and set APP_ID = "your api"
+   - Go to `api.js` and set `APP_ID = "your api"`
 
 
 <br/>
